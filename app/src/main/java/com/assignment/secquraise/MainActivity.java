@@ -127,7 +127,7 @@ public class MainActivity extends AppCompatActivity {
                 try {
                     int minutes = Integer.parseInt(frequencyText);
                     frequency = minutes;
-                    saveFrequency(frequency); // Save the frequency in shared preferences
+                    saveFrequency(frequency); 
                 } catch (NumberFormatException e) {
                     frequency = 0;
                 }
@@ -345,7 +345,7 @@ public class MainActivity extends AppCompatActivity {
             public void onLocationChanged(Location location) {
                 double latitude = location.getLatitude();
 
-//                locationResultTv.setText(String.valueOf(latitude));
+               locationResultTv.setText(String.valueOf(latitude));
                 locationManager.removeUpdates(this);
 
                 latitudeHolder[0] = latitude;
