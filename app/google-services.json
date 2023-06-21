@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "627728235948",
+    "firebase_url": "https://secquraise-88fe3-default-rtdb.firebaseio.com",
+    "project_id": "secquraise-88fe3",
+    "storage_bucket": "secquraise-88fe3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627728235948:android:fc14a243762e7e4eae8e09",
+        "android_client_info": {
+          "package_name": "com.assignment.secquraise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627728235948-ngishv3nd27bff3f7g93rb5f009f5vot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.assignment.secquraise",
+            "certificate_hash": "2de6a3eaebe949b409f8461c7c359c4c9d49aca1"
+          }
+        },
+        {
+          "client_id": "627728235948-ivbgvtq5bjnuev7nnbfrhki9lreg2u2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgBOxwZ_lDMh-VapqvKDAAlV2M8sPaR9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627728235948-ivbgvtq5bjnuev7nnbfrhki9lreg2u2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
